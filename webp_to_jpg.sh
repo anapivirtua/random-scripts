@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Simple script to convert all webp to jpg in a directory using imagemagick convert
-# Usage: webp_to_png.sh <directory>
+# Usage: webp_to_jpg.sh <directory>
 
 dir=$1
 
