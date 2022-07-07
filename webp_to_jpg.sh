@@ -43,4 +43,4 @@ for file in $dir*.webp; do
 done
 
 echo "No more files to convert"
-exit 1
+exit 0
